@@ -1,0 +1,2 @@
+# idea-sts-projects
+JavaEducation
